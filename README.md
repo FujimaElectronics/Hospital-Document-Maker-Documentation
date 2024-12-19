@@ -10,3 +10,7 @@ You can ask for the source code of Hospital Document Maker [here](https://docs.g
 
 ## License
 You are not allowed to reuse the content of this repository.
+
+## Note
+This software is a joke. Don't take it serious or do not try to reach
+the contacts informations in HELP.
