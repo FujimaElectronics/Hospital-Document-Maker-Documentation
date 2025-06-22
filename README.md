@@ -13,5 +13,5 @@ For now, it is not possible to get access to the source code.
 You are not allowed to reuse the content of this repository.
 
 ## Note
-This software is a joke. Don't take it serious or do not try to reach
-the contacts informations in HELP.
+This software is a joke. Don't take it seriously or do not try to reach
+the contact informations in HELP.
