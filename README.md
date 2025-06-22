@@ -6,7 +6,6 @@ Hospital Document Maker.
 The website is located [here](https://fujimaelectronics.github.io/Hospital-Document-Maker-Documentation/).
 
 ## Get the source code
-<!-- You can ask for the source code of Hospital Document Maker [here](https://docs.google.com/forms/d/e/1FAIpQLSd1fQ-_-DvcPuzKodMnm85trNKvZDzMkxOXgyQuBZp69dqs8w/viewform?usp=header). -->
 For now, it is not possible to get access to the source code.
 
 ## License
