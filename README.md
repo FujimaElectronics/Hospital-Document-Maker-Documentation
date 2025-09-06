@@ -1,5 +1,5 @@
 # Hospital Document Maker Documentation
-This repository contain the documentation for the Fujima Electronics's
+This repository contains the documentation for the Fujima Electronics's
 Hospital Document Maker.
 
 ## Important note
